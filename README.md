@@ -1,2 +1,5 @@
-# Java-Application
-A sample java application and then deploying it into aws 3-tier architecture 
+# Java-Mysql-Simple-Login-Web-application
+
+This is a simple demonstration project to showcase conatinerization of Java web application and Mysql database in docker and Kubernetes environment.
+
+
